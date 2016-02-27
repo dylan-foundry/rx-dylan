@@ -1,0 +1,11 @@
+{
+  "name": "rx",
+  "description": "",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "default-target": "rx",
+  "tests": [
+    "rx-test-suite-app"
+  ]
+}
